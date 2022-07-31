@@ -15,3 +15,9 @@ This ROS Package has been developed by [NYU Multimedia and Visual Computing Lab]
 
 Then clone this repository in Ubuntu Noetic Catkin Workspace Folder.
 
+
+## Setting Up with actual Robot
+
+Follow the official [tutorial here](https://github.com/IFL-CAMP/iiwa_stack/wiki/roscore_setup) and configure the IP in Kinesis Lab.
+
+
