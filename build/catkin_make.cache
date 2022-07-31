@@ -1,0 +1,2 @@
+beginner_tutorials:iiwa_stack/iiwa_control:iiwa_stack/iiwa_description:iiwa_stack/iiwa_gazebo:iiwa_stack/iiwa_hw:iiwa_stack/iiwa_moveit:iiwa_stack/iiwa_msgs:iiwa_stack/iiwa_ros:turtlebot3_simulations/turtlebot3_fake:turtlebot3_simulations/turtlebot3_gazebo:turtlebot3_simulations/turtlebot3_simulations
+-DCATKIN_DEVEL_PREFIX=/home/silvey/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/silvey/catkin_ws/install -G Unix Makefiles
