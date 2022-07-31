@@ -9,7 +9,7 @@ Simulation for the upcoming paper
 
 This ROS Package has been developed by [NYU Multimedia and Visual Computing Lab](https://wp.nyu.edu/mmvc/) at New York University Abu Dhabi, for an upcoming paper.
 
-![MMVCLogo](./mmvc.png)
+<img src="mmvc.png" alt="MMVCLogo" width="100"/>
 
 ## Installation
 
